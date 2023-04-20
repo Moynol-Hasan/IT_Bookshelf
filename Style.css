@@ -166,7 +166,7 @@
     border: 1px solid black;
  }
 
- .button1
+ .button
  {
 
     height: 45px;
@@ -183,5 +183,178 @@
     
  }
 
+ /* home page end */
 
 
+
+ /* 1st semester page start */
+
+ .button1
+ {
+
+    height: 45px;
+    width:14%;
+    margin-top: 10%;
+    margin-left: 14%;
+    border-radius: 10px;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid white;
+    background: #6769BF;
+    color: white;
+    
+ }
+
+ .button12
+ {
+
+    height: 45px;
+    width:14%;
+    margin-top: 10%;
+    margin-left: 25%;
+    border-radius: 10px;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid white;
+    background: #6769BF;
+    color: white;
+    
+ }
+
+ .button13
+ {
+
+    height: 45px;
+    width:14%;
+    margin-top: 100px;
+    margin-left: 15%;
+    border-radius: 10px;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid white;
+    background: #6769BF;
+    color: white;
+    
+ }
+
+ /* 1st semester page end */
+
+
+ /* 2nd semester page start */
+
+ .button2
+ {
+
+    height: 45px;
+    width:14%;
+    margin-top: 10%;
+    margin-left: 14%;
+    border-radius: 10px;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid white;
+    background: #6769BF;
+    color: white;
+    
+ }
+
+ .button22
+ {
+
+    height: 45px;
+    width:14%;
+    margin-top: 10%;
+    margin-left: 14%;
+    border-radius: 10px;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid white;
+    background: #6769BF;
+    color: white;
+    
+ }
+ 
+ /* 2nd semester end */
+
+ /* 3rd semester page start */
+
+ .button3
+ {
+
+    height: 45px;
+    width:14%;
+    margin-top: 10%;
+    margin-left: 14%;
+    border-radius: 10px;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid white;
+    background: #6769BF;
+    color: white;
+    
+ }
+
+
+ .button33
+ {
+
+    height: 45px;
+    width:14%;
+    margin-top: 10%;
+    margin-left: 24%;
+    border-radius: 10px;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid white;
+    background: #6769BF;
+    color: white;
+    
+ }
+ 
+ /* 3rd semester page end */
+
+
+ /* 4th semester page start */
+
+ .button4
+ {
+
+    height: 45px;
+    width:14%;
+    margin-top: 10%;
+    margin-left: 14%;
+    border-radius: 10px;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid white;
+    background: #6769BF;
+    color: white;
+    
+ }
+
+ .button44
+ {
+
+    height: 45px;
+    width:14%;
+    margin-top: 10%;
+    margin-left: 14%;
+    border-radius: 10px;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    border: 1px solid white;
+    background: #6769BF;
+    color: white;
+    
+ }
+
+ /* 4th semester page end */
